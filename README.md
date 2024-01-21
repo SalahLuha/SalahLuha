@@ -28,6 +28,7 @@
 ![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)
+![swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
@@ -36,8 +37,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![jeson](https://img.shields.io/badge/-jeson-05122A?style=flat&logo=JESONData)&nbsp;
-
-![swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
