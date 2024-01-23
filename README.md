@@ -23,7 +23,7 @@
 <a href="https://t.me/Salah_luha" target="_blank"><img src="https://img.shields.io/badge/-Salah%20Medhat-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
-### 🛠 &nbsp;Tech Stack
+### 🧰 &nbsp;Languages and Tools
 ![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
